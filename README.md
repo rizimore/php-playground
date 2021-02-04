@@ -9,3 +9,4 @@
 - [x] Match Expression
 - [x] Union Types
 - [x] Constructor Property Promotion
+- [x] Object::Class
