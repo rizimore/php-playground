@@ -5,4 +5,7 @@
 - frameworks
 
 ## PHP
-- [ ] Nullsafe operator
+- [x] Nullsafe Operator
+- [x] Match Expression
+- [x] Union Types
+- [x] Constructor Property Promotion
